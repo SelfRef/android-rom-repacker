@@ -1,7 +1,7 @@
 ---
 create_date: 2018-07
 archive_date: 2022-08
-language: Shell
+language: Posix Shell
 locale: [en_US]
 license: GPLv3
 category: [Utility, Linux, Mobile]
